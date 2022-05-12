@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning next.js
 - 📫 @whossushan
 
-![HomeGif](https://images.squarespace-cdn.com/content/v1/581499b8e58c627afce6221c/1581466535600-K13XTW44G4XOOC0RFPN5/winky.gif?format=500w)
+![HomeGif](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)
 
 
 <!---
