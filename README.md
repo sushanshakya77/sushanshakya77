@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning next.js
 - 📫 @whossushan
 
+![visitorsCount](https://komarev.com/ghpvc/?username=sushanshakya77)
+
 ![HomeGif](https://images.squarespace-cdn.com/content/v1/581499b8e58c627afce6221c/1581466535600-K13XTW44G4XOOC0RFPN5/winky.gif?format=500w)
 
 
