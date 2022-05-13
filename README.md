@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sushanshakya77
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning next.js
-- 📫 @whossushan
+- 👋 Hi, I’m Sushan
 
 
 ![HomeGif](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)
