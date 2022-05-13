@@ -3,7 +3,7 @@
 
 ![HomeGif](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushanshakya77&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushanshakya77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
