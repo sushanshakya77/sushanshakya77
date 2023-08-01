@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sushan
-- 💻 MERN stack developer
+- 💻 Software Engineer
 
 
 ![HomeGif](https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif)
